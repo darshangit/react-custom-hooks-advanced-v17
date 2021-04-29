@@ -1,4 +1,3 @@
-import { useState } from "react";
 import { FIREBASE_URL } from "../../config";
 import useHttp from "../../hooks/use-http";
 
